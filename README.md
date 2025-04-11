@@ -1,5 +1,4 @@
 # JAVA_IMMERSION
-exemplo de readme by chatgpt.
 
 Consumindo uma API de Filmes com Java
 Este é um projeto simples que utiliza Java para consumir dados de uma API de filmes e exibir algumas informações na tela.
